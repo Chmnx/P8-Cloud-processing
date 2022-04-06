@@ -1,2 +1,2 @@
-## Summary
-Recognizing automatically fruits from images with the help of VVG16 and APC. 
+"## Summary"
+Recognizing automatically fruits from images with the help of VGG16 and APC. 
