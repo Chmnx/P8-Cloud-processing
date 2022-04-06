@@ -1,5 +1,7 @@
-## Summary
+## Recognize fruits automatically
 Building AI course project
+
+## Summary
 Objective: Recognizing automatically fruits from images with the help of VGG16 and PCA . 
 
 Description: 
