@@ -1,4 +1,4 @@
-## Recognize fruits automatically
+# Recognize fruits automatically
 Building AI course project
 
 ## Summary
