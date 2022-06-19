@@ -1,4 +1,4 @@
-# Recognize fruits automatically
+# Treating photos in the cloud
 
 ## Summary
 Objective: Recognizing automatically fruits from images with the help of VGG16 and PCA . 
