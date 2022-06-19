@@ -8,6 +8,8 @@ I developed in a Big Data environment a first data processing chain of images of
 
 <img width="697" alt="Capture d’écran 2022-06-19 à 21 37 01" src="https://user-images.githubusercontent.com/101344485/174497621-71ae8b74-a46f-4bdb-a838-b5d832b7c73a.png">
 
-<img width="803" alt="Capture d’écran 2022-06-19 à 21 37 35" src="https://user-images.githubusercontent.com/101344485/174497629-23829b1a-60c2-4edc-bfb4-5c641f4d4354.png">
+<img width="359" alt="Capture d’écran 2022-06-19 à 21 40 38" src="https://user-images.githubusercontent.com/101344485/174497697-c0cec484-635f-4c5b-afab-c4162ddb7b31.png">
+
+<img width="362" alt="Capture d’écran 2022-06-19 à 21 40 45" src="https://user-images.githubusercontent.com/101344485/174497701-79ccf601-c065-4f04-b33f-f4fcaf7eb97c.png">
 
 <img width="595" alt="Capture d’écran 2022-06-19 à 21 37 55" src="https://user-images.githubusercontent.com/101344485/174497637-cbdd7f2c-c2c6-4cb3-8391-1bf936599f33.png">
