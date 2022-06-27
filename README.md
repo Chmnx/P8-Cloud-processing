@@ -1,4 +1,4 @@
-# Treating photos in the cloud
+# Big data environment for processing photos
 
 ## Summary
 Objective: Recognizing automatically fruits from images with the help of VGG16 and PCA . 
